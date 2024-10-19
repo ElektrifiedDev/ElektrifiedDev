@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-      Discord: @elektriksandwich
-      Email: elektrifieddev@outlook.com
+      Discord: @elektriksandwich.ly
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
