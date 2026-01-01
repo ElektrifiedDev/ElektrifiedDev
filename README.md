@@ -3,7 +3,7 @@
 I'm a Computer Science student & software developer based in **London**.
 Currently working towards an L3 BTEC National Extended Diploma.
 
-## Experience
+# Experience
 I like building all sorts of random projects, ranging from:
 - Discord Bots
 - CLI Games in Python
@@ -13,7 +13,8 @@ I like building all sorts of random projects, ranging from:
 
 Not necessarily an expert, but I'm also not your average newbie
 
-## Tech Stack
+# Tech Stack
+## Languages
 I know various programming languages including:
 - Python
 - Java
@@ -21,6 +22,7 @@ I know various programming languages including:
 - C++
 - Lua
 
+## Tools/Frameworks
 I'm also comfortable with:
 - HTML
 - CSS
@@ -29,3 +31,5 @@ I'm also comfortable with:
 - React
 
 I am also currently learning: Kotlin
+
+Feel free to explore my repos and reach out!
