@@ -8,7 +8,7 @@ I'm a **Software Engineer** based in [Location], focused on building scalable we
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ElektrifiedDev&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
