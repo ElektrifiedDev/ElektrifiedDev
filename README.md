@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm ElektrifiedDev! 🚀
 
-<!--
-**ElektrifiedDev/ElektrifiedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** based in [Location], focused on building scalable web applications and contributing to open-source software.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📫 How to reach me:
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
