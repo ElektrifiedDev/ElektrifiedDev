@@ -1,8 +1,31 @@
-# Hi, I'm ElektrifiedDev!
+# Hi, I'm ElektrifiedDev
 
-I'm a **Software Engineer** based in London
-I do Full-Stack, Frontend and Backend development for applications
-I write my own little scripts from time to time.
+I'm a Computer Science student & software developer based in **London**.
+Currently working towards an L3 BTEC National Extended Diploma.
 
-# My Techstack
-![Python](https://img.shields.io/badge/%20-%20Python%20-blue?style=flat&logo=python&logoColor=ffffff&labelColor=000000)
+## Experience
+I like building all sorts of random projects, ranging from:
+- Discord Bots
+- CLI Games in Python
+- Minecraft Mods & Plugins
+- Roblox Games
+- Other random little experiments
+
+Not necessarily an expert, but I'm also not your average newbie
+
+## Tech Stack
+I know various programming languages including:
+- Python
+- Java
+- JavaScript
+- C++
+- Lua
+
+I'm also comfortable with:
+- HTML
+- CSS
+- Git
+- Node.js
+- React
+
+I am also currently learning: Kotlin
